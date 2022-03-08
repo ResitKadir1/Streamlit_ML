@@ -1,0 +1,11 @@
+name: reka-streamlit
+channels:
+- defaults
+dependencies:
+- python=3.7.*
+- Streamlit=1.7.0
+- Scikit-learn=0.24.2
+- matplotlib==3.3.*
+- numpy=1.22.2
+- pip:
+  - Streamlit=1.7.0
