@@ -1,3 +1,6 @@
+
+![plot](Screenshot 2022-03-09 at 00.34.41.png)
+
 #### Create the course environment
 
 ```
