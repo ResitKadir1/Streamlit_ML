@@ -24,9 +24,10 @@ Check that your prompt changed to
 ```
 (reka-streamlit) $
 ```
-
-
-
+##### run the script
+```
+Run --> streamlit run MultiClass_App.py
+```
 
 ```
 conda deactivate
